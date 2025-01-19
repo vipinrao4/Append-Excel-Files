@@ -2,10 +2,10 @@ import pandas as pd
 import os
 
 # Input folder containing Excel files
-folder_path = r"C:\Users\91926\Downloads\12 Jan Claims"
+folder_path = r"Input Location "
 
 # Output file path with the file name
-output_file = r"C:\Users\91926\Downloads\12 Jan Claims.xlsx"
+output_file = r"Out Put Location"
 
 # Ensure the output directory exists
 output_dir = os.path.dirname(output_file)
